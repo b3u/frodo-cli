@@ -7,14 +7,7 @@
   "bin": {
     "frodo": "index.js"
   },
-  "scripts": {
-    "test": "mocha"
-  },
   "dependencies": {
-    "chalk": "^3.0.0",
     "commander": "^4.1.0"
-  },
-  "devDependencies": {
-    "mocha": "^7.0.1"
   }
 }
